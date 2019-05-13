@@ -20,8 +20,6 @@ Para entender mejor map y reduce
 `Fun fun function` es un gran canal para aprender sobre JS, a mi parecer sus primeros videos son más educativos e interesantes que los últimos,
 vale mucho la pena ver qué más hay ahí.
 
-
-
 ### Destructuring
 https://www.youtube.com/watch?v=PB_d3uBkQPs&list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm&index=7
 ### `let` y `const`
@@ -31,7 +29,7 @@ https://www.youtube.com/watch?v=sjyJBL5fkp8&list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw
 https://www.youtube.com/watch?v=6sQDTgOqh-I&list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm&index=6
 
 ---
-Otros recursos que hablamos en clase. Son cosas **SUMAMENTE** útiles que aprender:
+Otros recursos que hablamos en clase. Son cosas **SÚMAMENTE** útiles que aprender:
 
 ### Higher-order functions
 https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=2
