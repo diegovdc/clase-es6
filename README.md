@@ -21,10 +21,22 @@ Para entender mejor map y reduce
 vale mucho la pena ver qué más hay ahí.
 
 
+
+### Destructuring
+https://www.youtube.com/watch?v=PB_d3uBkQPs&list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm&index=7
+### `let` y `const`
+https://www.youtube.com/watch?v=sjyJBL5fkp8&list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm&index=4
+
+### Arrow functions
+https://www.youtube.com/watch?v=6sQDTgOqh-I&list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm&index=6
+
+---
+Otros recursos que hablamos en clase. Son cosas **SUMAMENTE** útiles que aprender:
+
 ### Higher-order functions
 https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=2
-# Map
+### Map
 https://www.youtube.com/watch?v=bCqtb-Z5YGQ&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=3
-# Reduce
+### Reduce
 https://www.youtube.com/watch?v=Wl98eZpkp-c&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=4
 https://www.youtube.com/watch?v=1DMolJ2FrNY&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=5
